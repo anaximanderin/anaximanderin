@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey, I'm Anaxi Manderin 👋
 
-<!--
-**anaximanderin/anaximanderin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Solidity enthusiast | Decentralization realist | Still waiting for gas fees to go down
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 About Me
+
+- 🛠️ Building weird and (sometimes) useful things on Ethereum Ecosystem
+- 🔐 Focused on smart contracts, dApps, and trustless systems
+- 🧠 Currently deep-diving into L2s, zk-rollups, and whether or not any of this is real
+- 🧘 Trying to keep my code cleaner than my commit history
+
+---
+
+### 🚀 Current Projects
+
+- 🧱 **Some DApp** – Making buttons do blockchain stuff  
+- 🔄 **Gas-Optimized Smart Contracts** – Because every `wei` counts  
+- 📦 **Open Source Toys** – I break things so you don’t have to
+
+---
+
+### 🧰 Stack
+
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/-Hardhat-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-4E8EE9?logo=javascript&logoColor=white)
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?logo=ipfs&logoColor=white)
+
+---
+
+### 🤓 Fun Facts
+
+- `abc.xyz` was *this* close… until Google outbid me by a few trillion.
+- My smart contracts compile on the first try 100% of the time — after the 37th attempt.
+- Deploying dApps just to test how broken they can get in production.
+
+---
+
+> “Decentralized everything — except my sleep schedule.”  
+> — Me, at 2:47 AM debugging a revert
