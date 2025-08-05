@@ -24,9 +24,8 @@
 ### 🧰 Stack
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Viem](https://img.shields.io/badge/-Viem-3C3C3D?logo=viem&logoColor=white)
+![Wagmi](https://img.shields.io/badge/-Wagmi-363636?logo=wagmi&logoColor=white)
 
 ---
 
