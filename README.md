@@ -6,7 +6,7 @@
 
 ### 🧪 About Me
 
-- 🛠️ Building weird and (sometimes) useful things on Ethereum Ecosystem
+- 🛠️ Building weird and (sometimes) useful things on EVM compatible chains
 - 🔐 Focused on smart contracts, dApps, and trustless systems
 - 🧠 Currently deep-diving into L2s, zk-rollups, and whether or not any of this is real
 - 🧘 Trying to keep my code cleaner than my commit history
